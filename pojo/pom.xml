@@ -10,15 +10,15 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.guan</groupId>
-    <artifactId>interface</artifactId>
+    <artifactId>pojo</artifactId>
 
-    <name>interface</name>
+    <name>pojo</name>
 
     <dependencies>
         <dependency>
-            <groupId>com.guan</groupId>
-            <artifactId>pojo</artifactId>
-            <version>1.0-SNAPSHOT</version>
+            <groupId>org.projectlombok</groupId>
+            <artifactId>lombok</artifactId>
+            <version>1.18.2</version>
         </dependency>
     </dependencies>
 
